@@ -1,0 +1,3 @@
+﻿  position.c
+C:\Users\Theo\Documents\Fac\ISEN\CSI3\Informatique\TP\Exo6\Exo6\position.c(15,18): warning C4244:  'fonction' : conversion de 'time_t' en 'unsigned int', perte possible de données
+  Exo6.vcxproj -> C:\Users\Theo\Documents\Fac\ISEN\CSI3\Informatique\TP\Exo6\Debug\Exo6.exe
